@@ -10,6 +10,7 @@
 
 <p align="center">
   <em>
+    **u r a liar**
     Hello, I am Abubakar a Full Stack Developer <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><br>who is in love with
    <b> Programming & cool technologies </b> and wants Learn everything
