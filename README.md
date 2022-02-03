@@ -23,7 +23,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** <br>
-✔ I’m currently working in **Group Rhinos**<br>
+✔ I’m currently working at **Group Rhinos**<br>
 ✔ I’m currently learning about **Software Architecture &nbsp;&nbsp;&nbsp;&nbsp; & Design Patters**<br>
 ✔ I’m looking to collaborate with any **Open - Source &nbsp;&nbsp;&nbsp;&nbsp;php or javascript project**<br>
 ✔ Ask from me anything you want, If I am alive I will &nbsp;&nbsp;&nbsp;&nbsp;answer within seconds<br>
