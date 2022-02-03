@@ -26,8 +26,8 @@
 ✔ I’m currently working in **Group Rhinos**<br>
 ✔ I’m currently learning about **Software Architecture & <br> Design Patters**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source &nbsp;&nbsp;&nbsp;&nbsp;php or javascript project**<br>
-✔ Ask from me anything you want, If I am alive I will answer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sleep till it store in the brain* 😎<br><br><br><br>
+✔ Ask from me anything you want, If I am alive I will answer &nbsp;&nbsp;&nbsp;&nbsp;within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then &nbsp;&nbsp;sleep till it store in the brain* 😎<br><br><br><br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href=#><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'></a>
