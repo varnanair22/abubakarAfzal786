@@ -20,7 +20,7 @@
 
 <h2>About Me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** <br>
 ✔ I’m currently working at **Group Rhinos**<br>
